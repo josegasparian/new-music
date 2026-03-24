@@ -1,0 +1,77 @@
+{
+  "week": "2026-03-27",
+  "releases": [
+    {
+      "id": "1",
+      "artist": "Floating Points",
+      "title": "Cascade",
+      "type": "album",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c5b2d30a3c70fd1feae24b65",
+      "genres": ["Electronic", "Jazz"],
+      "links": {
+        "spotify": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp",
+        "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    },
+    {
+      "id": "2",
+      "artist": "Mk.gee",
+      "title": "Two Star & The Dream Police",
+      "type": "album",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737ef1e9c5c7f3c6d75c9f5e7f",
+      "genres": ["Indie Rock", "Alternative"],
+      "links": {
+        "spotify": "https://open.spotify.com/album/0lOYOdA1cNJZiRdZdoaTNT",
+        "appleMusic": "https://music.apple.com/us/album/two-star-the-dream-police/1724726802"
+      }
+    },
+    {
+      "id": "3",
+      "artist": "Brat",
+      "title": "Sympathy Is a Knife",
+      "type": "single",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8e28219724c2423afa4d320",
+      "genres": ["Pop", "Electronic"],
+      "links": {
+        "spotify": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG",
+        "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    },
+    {
+      "id": "4",
+      "artist": "Bill Callahan",
+      "title": "Gold Record",
+      "type": "album",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27346c5b8e1a2a2a1a2a3b4c5d6",
+      "genres": ["Folk", "Country"],
+      "links": {
+        "spotify": "https://open.spotify.com/album/3vQCBV9wEDKmhRFcJRYQH5",
+        "appleMusic": "https://music.apple.com/us/album/gold-record/1531706584"
+      }
+    },
+    {
+      "id": "5",
+      "artist": "Arooj Aftab",
+      "title": "Night Reign",
+      "type": "album",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a3b3c4d5e6f7a8b9c0d1e2f3",
+      "genres": ["Neo-Soul", "Classical"],
+      "links": {
+        "spotify": "https://open.spotify.com/album/3dS0wMEqBR7aKwbZ9lFToL",
+        "appleMusic": "https://music.apple.com/us/album/night-reign/1724726802",
+        "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    },
+    {
+      "id": "6",
+      "artist": "Cindy Lee",
+      "title": "Diamond Jubilee",
+      "type": "album",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b4c5d6e7f8a9b0c1d2e3f4a5",
+      "genres": ["Experimental", "Lo-fi"],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    }
+  ]
+}

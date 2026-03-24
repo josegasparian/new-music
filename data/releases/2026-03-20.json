@@ -1,0 +1,54 @@
+{
+  "week": "2026-03-20",
+  "releases": [
+    {
+      "id": "1",
+      "artist": "Grouper",
+      "title": "Shade",
+      "type": "album",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f5e6d7c8b9a0b1c2d3e4f5a6",
+      "genres": ["Ambient", "Dream Pop"],
+      "links": {
+        "spotify": "https://open.spotify.com/album/6IH4RGCfY9MQHD5Y7Ypgbs",
+        "appleMusic": "https://music.apple.com/us/album/shade/1579462040"
+      }
+    },
+    {
+      "id": "2",
+      "artist": "Loraine James",
+      "title": "Gentle Confrontation",
+      "type": "album",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a6b7c8d9e0f1a2b3c4d5e6f7",
+      "genres": ["Electronic", "Experimental"],
+      "links": {
+        "spotify": "https://open.spotify.com/album/5LknQQQFpQWBLM1LcuFMHH",
+        "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    },
+    {
+      "id": "3",
+      "artist": "Charli XCX",
+      "title": "Mean Girls",
+      "type": "single",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b7c8d9e0f1a2b3c4d5e6f7a8",
+      "genres": ["Pop", "Hyperpop"],
+      "links": {
+        "spotify": "https://open.spotify.com/track/0WtM2NBus2QHMkMtFbSyMq",
+        "appleMusic": "https://music.apple.com/us/album/mean-girls/1724726802",
+        "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    },
+    {
+      "id": "4",
+      "artist": "Low",
+      "title": "HEY WHAT",
+      "type": "album",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c8d9e0f1a2b3c4d5e6f7a8b9",
+      "genres": ["Slowcore", "Noise"],
+      "links": {
+        "spotify": "https://open.spotify.com/album/4xFwUkInhBiGxLqJqomXbT",
+        "appleMusic": "https://music.apple.com/us/album/hey-what/1570969076"
+      }
+    }
+  ]
+}
